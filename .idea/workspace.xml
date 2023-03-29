@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="671e583e-1e14-49b7-bebc-9a35688daf50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzoAssignment/AirConditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzoAssignment/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzoAssignment/Driller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chibuzoAssignment/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/TaskGiven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chibuzoAssignment/AirConditionerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chibuzoAssignment/BikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chibuzoAssignment/DrillerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chibuzoAssignment/TelevisionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/ClassAverageTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/tdd/Account.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N6I8gVwLS9QezX44psHxVRISJg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tdd" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="chibuzoAssignment" />
+      <recent name="tdd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TaskGiven">
+    <configuration name="TaskGiven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.TaskGiven" />
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirConditionerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chibuzoAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chibuzoAssignment" />
+      <option name="MAIN_CLASS_NAME" value="chibuzoAssignment.AirConditionerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chibuzoAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chibuzoAssignment" />
+      <option name="MAIN_CLASS_NAME" value="chibuzoAssignment.TelevisionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.turnTvOffTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chibuzoAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chibuzoAssignment" />
+      <option name="MAIN_CLASS_NAME" value="chibuzoAssignment.TelevisionTest" />
+      <option name="METHOD_NAME" value="turnTvOffTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.turnTvOnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chibuzoAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chibuzoAssignment" />
+      <option name="MAIN_CLASS_NAME" value="chibuzoAssignment.TelevisionTest" />
+      <option name="METHOD_NAME" value="turnTvOnTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskGiven" />
+        <item itemvalue="JUnit.TelevisionTest.turnTvOffTest" />
+        <item itemvalue="JUnit.TelevisionTest" />
+        <item itemvalue="JUnit.TelevisionTest.turnTvOnTest" />
+        <item itemvalue="JUnit.AirConditionerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="671e583e-1e14-49b7-bebc-9a35688daf50" name="Changes" comment="" />
+      <created>1678977951118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678977951118</updated>
+      <workItem from="1678977952002" duration="34881000" />
+      <workItem from="1679165777395" duration="1002000" />
+      <workItem from="1679300062862" duration="725000" />
+      <workItem from="1679422612707" duration="24452000" />
+      <workItem from="1679595678426" duration="33195000" />
+      <workItem from="1680078169216" duration="6558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/chibuzoAssignment/BikeTest.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/tdd/AccountTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/chibuzoAssignment/AirConditionerTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
